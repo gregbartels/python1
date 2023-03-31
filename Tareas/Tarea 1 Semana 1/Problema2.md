@@ -24,3 +24,6 @@ automatica un correo al administrador con la cantidad de archivos de error repor
  2. identificar la funcion que permita en el menor tiempo posible los logs que contenga la palabra "error".
  3. Investigar la mejor forma de administrar el programa, si es mejor arrancar por linea de comandos o bien detener el programa en casos de fechas de mantenimiento del servidor.
  4. El programa debe de consumir la menor cantidad de recursos y no debe impactar el performance del servidor en produccion durante la revision de los logs.
+
+ ..
+
