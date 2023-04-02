@@ -12,9 +12,9 @@ el calculo matematico el resultado pueda ser un multiplo de 5.
 
 
 ## PASO 2
-1. El pograma debe tener interfaz de usuario 
-2. Debe poder tener un input para ingresar el numero entero
-3. Debe poder realizar por medio de una variable un calculo para determinar si el resultado puede ser un multiplo de 5
+1. El pograma debe tener interfaz de usuario .
+2. Debe poder tener un input para ingresar el numero entero.
+3. Debe poder realizar por medio de una variable un calculo para determinar si el resultado puede ser un multiplo de 5.
 4.  Debe tener un output donde imprima si el numero entero es divisible por multiplo de 5 e indicarlo con un mensaje indiciando " el numero X es multiplo de 5" o indicar en caso contrario " el numero ingresado no es multiplo de 5".
 
 ## PASO 3
