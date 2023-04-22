@@ -11,3 +11,6 @@ En el ejercicio de la piramide se debe ingresar un numero para que vaya construy
 
 ## Ejercicio 3
 Debe ingresar las palabras que el programa solicita para poder obtener el resultado, de no ser palabras con la misma longitud el programa retorna el valor intercalado.
+
+\\
+
