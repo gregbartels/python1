@@ -1,15 +1,8 @@
-##
-#Definir la lista de datos
-inputList = [1, 2, 3, 3, 2, 4, 6]
-print("Los numeros son 1, 2, 3, 3, 2, 4, 6 ahora, procedemos a remover los repetidos: ")
-#Crear una lista para almacenar los datos sin repetir
-listaunica= []
+#Eliminar repetidos#
 
- #Iteramos sobre la lista de entrada
-for numero in inputList:
-    # Si el elemento no está en la lista temporal, lo agregamos
-    if numero not in listaunica:
-        listaunica.append(numero)
+numeros = [[1, 2, 3, 3, 2, 4, 6], [3, 3, 3, 3, 3, 3, 3]]   #datos de entrada repetidos#
+print("Los numeros Recibidos son 1, 2, 3, 3, 2, 4, 6  y [3, 3, 3, 3, 3, 3, 3 ahora, procedemos a remover los repetidos: ")
 
-# Imprimimos la lista de elementos únicos
-print("Numeros sin repetir:",listaunica)
+for lista in numeros:
+    lista_sin_repetidos = list(set(lista))  #crear lista sin repetidos en el codigo#
+    print( "Nueva lista sin repetidos:",lista_sin_repetidos) # impresion de valores finales sin repeticiones#
