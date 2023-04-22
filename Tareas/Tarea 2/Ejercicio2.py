@@ -1,4 +1,6 @@
-numero=int(input("Bienvenido, ingresa un valor y te dire el patron que debes seguir para alcanzar este numero:"))
+3
+
+numero=int(input("Bienvenido, ingresa el numero que deseas conocer como alcanzar:"))
 if numero < 1:
     print("El numero debe ser mayor al O")
 
