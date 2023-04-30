@@ -1,6 +1,6 @@
 #En este codigo se declaran las variables aritmeticas
 # se puede invocar en el codigo principal  usando import operaciones
-
+#esto se invoca la codigo principal 
 def sumar(a,b):
      resultado = a + b 
      return resultado
