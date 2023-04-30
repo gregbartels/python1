@@ -1,5 +1,5 @@
 #CALCULADORA 1.0  
-#Se importan las funciones
+#Se importan las funciones#
 #Cada resultado se va a guardar en una carpeta llamada RESULTADOS en el folder principal
 #Cualquier duda o consulta pueden escribir al desarrollador gregorybadilla@gmail.com
 # El codigo puede ser compartido y tambien mejorado por otros, solamente se debe mencionar el creador original en el codigo mejorado.
