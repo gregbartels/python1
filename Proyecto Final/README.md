@@ -25,11 +25,11 @@ una vez iniciado encontraras el siguiente menu:
               |  \/ K|                            _/ |
               `------'                           |__/
 
-a. Seleccionar usuario o crear uno nuevo
-b. Nuevo juego
-c. Estadísticas
-d. Salir
-Seleccione una opción:
+- Seleccionar usuario o crear uno nuevo
+- Nuevo juego
+- Estadísticas
+-  Salir
+- Seleccione una opción:
 
 
 
@@ -70,7 +70,7 @@ Las estadísticas del jugador se almacenan en el archivo `estadisticas.txt`. El 
 
 ## Contribuciones
 
-¡Las contribuciones a este proyecto son bienvenidas! Si tienes alguna sugerencia o encuentras algún problema, no dudes en abrir un problema o enviar una solicitud para mejorar el juego.
+¡Las contribuciones a este proyecto son bienvenidas! Si tienes alguna sugerencia o encuentras algún problema, no dudes en enviar una solicitud para mejorar el juego.
 
 
 
