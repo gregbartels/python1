@@ -29,7 +29,7 @@ una vez iniciado encontraras el siguiente menu:
 - Nuevo juego
 - Estadísticas
 -  Salir
-- Seleccione una opción:
+
 
 
 
