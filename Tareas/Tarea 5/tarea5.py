@@ -1,4 +1,6 @@
 
+
+## Refactor funcion #1
 ## Esta función cuenta e imprime en pantalla todos los números, letras y caracteres especiales presentes en una cadena de texto.
 
 '''def contar_caracteres(string):
